@@ -1,4 +1,7 @@
+<img width=128 src="https://github.com/jiachenyee/wwdc2024-exploreability/assets/36725840/140f2f61-079a-4273-9ff9-7c36e3c8a37f">
+
 # ExploreAbility
+
 ## WWDC2024 Swift Student Challenge
 
 ## Features
