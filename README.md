@@ -30,7 +30,9 @@ In order to enable it, go to Settings > Accessibility > Display & Text Size > La
 </details>
 
 ## Screenshots
-<img style="width: 50%;" src="./.gh-assets/onboarding.png">
+<img style="width: 50%;" src="./.gh-assets/onboarding.png"> 
+<img style="width: 50%;" src="./.gh-assets/home.png">
+<img style="width: 50%;" src="./.gh-assets/challengecompletion.png">
 
 ## Comments
 The app does take a second to boot up when compiling with Swift Playgrounds on iPad. 
