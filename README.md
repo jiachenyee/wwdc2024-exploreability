@@ -1,4 +1,4 @@
-<img width=128 src="https://github.com/jiachenyee/wwdc2024-exploreability/assets/36725840/140f2f61-079a-4273-9ff9-7c36e3c8a37f">
+<img width=128 src="./.gh-assets/appicon.png">
 
 # ExploreAbility
 
@@ -28,6 +28,9 @@ Under Vision, the challenge furthest to the trailing edge, towards the top is on
 
 In order to enable it, go to Settings > Accessibility > Display & Text Size > Larger Text, and drag the slider to max.
 </details>
+
+## Screenshots
+<img style="width: 50%;" src="./.gh-assets/onboarding.png">
 
 ## Comments
 The app does take a second to boot up when compiling with Swift Playgrounds on iPad. 
